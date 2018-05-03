@@ -5,7 +5,7 @@ test dans Master
 
 Je fais un test pour voir
 test dans gfdfd
-<<<<<<< dev
+
 
 Nouveau test de git 1
 =======
